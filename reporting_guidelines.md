@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. 
+If you believe someone is violating the code of conduct we ask that you report it to the YVRDev admins by either emailing [kalv@vanruby.org](mailto:kalv@vanruby.org) or messaging DM through slack to one of our admins (@kalv, @brooke, @owenmeads or @gabe).
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -18,7 +18,7 @@ In your report please include:
 
 ## What happens after you file a report?
 
-You will receive an email from the Stumptown Syndicate's Code of Conduct Working Group acknowledging receipt within 24 hours (and will aim for much quicker than that).
+You will receive an email from the YVRDev Code of Conduct Working Group acknowledging receipt within 24 hours (and will aim for much quicker than that).
 
 The working group will immediately meet to review the incident and determine:
 
@@ -34,8 +34,8 @@ Once the working group has a complete account of the events they will make a dec
 * Nothing (if we determine no violation occurred).
 * A private reprimand from the working group to the individual(s) involved.
 * A public reprimand.
-* An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
-* A permanent or temporary ban from some or all Stumptown Syndicate spaces (events, meetings, mailing lists, IRC, etc.)
+* An imposed vacation (i.e. asking someone to "take a week off" from Slack).
+* A permanent or temporary ban from some or all YVRDev spaces (events, meetings, mailing lists, IRC, etc.)
 * A request for a public or private apology.
 * A request to engage in mediation and/or an accountability plan.
 
@@ -43,11 +43,12 @@ We'll respond within one week to the person who filed the report with either a r
 
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but we don't guarantee we'll act on it.
 
-Finally, the Working Group will make a report on the situation to the Stumptown Syndicate board. The board may choose to issue a public report of the incident.
+Finally, the Working Group will make a report on the situation to the YVRDev board. The board may choose to issue a public report of the incident.
 
 ## Appealing
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the admins by emailing [kalv@vanruby.org](kalv@vanruby.org) with your appeal and the YVRDev working group will review the case.
 
+_Revision 1.1, proposed March 2016_
 _Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidlines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
