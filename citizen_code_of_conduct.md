@@ -43,7 +43,13 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Advocating for, or encouraging, any of the above behavior.
   * Sustained disruption of community events, including talks and presentations.
 
-## 5. Consequences of Unacceptable Behavior
+## 5. Recruiters, Sales, and other Promoters
+
+YVRDev is for community members both new and old. You are not welcome to merely recruit in the channel. We consider anyone who joins and immediately starts to try to recruit staff to be contravening this rule. Come and get to know us, and then you can tell us about positions that may interest members. An exception is the contracts_and_jerbs channel, which is meant for this purpose.
+
+Similarly, YVRDev is not a venue for advertising or sales. We're sure your product is amazing, but this is not the place for it.
+
+## 6. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -51,7 +57,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 6. Reporting Guidelines
+## 7. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. DM one of the admins @kalv, @brooke, @gabe or @owenmead in our Slack Community.
 
@@ -59,23 +65,23 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-## 7. Addressing Grievances
+## 8. Addressing Grievances
 
 If you have been banned from YVRDev and feel that it has been done falsely, email [kalv@vanruby.org](mailto:kalv@vanruby.org) and the YVRDev admins will review your appeal.
 
-## 8. Scope
+## 9. Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 9. Contact info
+## 10. Contact info
 
 YVRDev Slack admins: @kalv, @brooke, @gabe or @owenmead
 
 Email: kalv@vanruby.org
 
-## 10. License and attribution
+## 11. License and attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
