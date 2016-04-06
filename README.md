@@ -1,4 +1,4 @@
-Policies
+Policies ![Party Parrot](http://i.imgur.com/YAQj1T3.gif)
 ========
 
 Policies for the YVRDev community.
