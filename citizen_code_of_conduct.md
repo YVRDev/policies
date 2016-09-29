@@ -59,7 +59,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. DM one of the admins @kalv, @brooke, @gabe or @owenmead in our Slack Community.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. DM one of the admins @brooke, @gabe or @owenmead in our Slack Community.
 
 [Reporting Guidelines](https://github.com/YVRDev/policies/blob/master/reporting_guidelines.md)
 
@@ -67,7 +67,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Addressing Grievances
 
-If you have been banned from YVRDev and feel that it has been done falsely, email [kalv@vanruby.org](mailto:kalv@vanruby.org) and the YVRDev admins will review your appeal.
+If you have been banned from YVRDev and feel that it has been done falsely, please get in touch with an admin outside of the Slack community and the YVRDev admins will review your appeal.
 
 ## 9. Scope
 
@@ -77,17 +77,15 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-YVRDev Slack admins: @kalv, @brooke, @gabe or @owenmead
-
-Email: kalv@vanruby.org
+YVRDev Slack admins: @brooke, @gabe or @owenmead
 
 ## 11. License and attribution
 
-Portions of text derived from the [Citizen Code of Conduct](http://citizencodeofconduct.org/), distributed by [Stumptown Syndicate](http://stumptownsyndicate.org). Distributed by [YVRDev](https://github.com/YVRDev/policies) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+Portions of text derived from the [Citizen Code of Conduct](http://citizencodeofconduct.org/), distributed by [Stumptown Syndicate](http://stumptownsyndicate.org). Distributed by [YVRDev](https://github.com/YVRDev/policies) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Revision 2.3. WIP Posted March 26th 2016._ 
+_Revision 2.3. WIP Posted March 26th 2016._
 
 _Revision 2.2. Posted 4 February 2016._
 
