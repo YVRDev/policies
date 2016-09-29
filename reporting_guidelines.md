@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the YVRDev admins by either emailing [kalv@vanruby.org](mailto:kalv@vanruby.org) or messaging DM through slack to one of our admins (@kalv, @brooke, @owenmeads or @gabe).
+If you believe someone is violating the code of conduct we ask that you report it to the YVRDev admins by messaging DM through slack to one of our admins (@brooke, @owenmeads or @gabe).
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -47,7 +47,7 @@ Finally, the Working Group will make a report on the situation to the YVRDev boa
 
 ## Appealing
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the admins by emailing [kalv@vanruby.org](kalv@vanruby.org) with your appeal and the YVRDev working group will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the admins outside of Slack with your appeal and the YVRDev working group will review the case.
 
 _Revision 1.1, proposed March 2016_
 _Revision 1.0, DRAFT, proposed June 2014_
